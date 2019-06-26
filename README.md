@@ -50,6 +50,11 @@ the second goal is learning abstract concepts only using sub category labels.
 |succeed |goal |handball game|  
 |fail |miss |handball game|  
 
+## Requirements  
+Python 3.6.8 :: Anaconda, Inc.    
+pytorch 1.1  
+torchvision 0.3.0  
+
 ## how it works  
 Firstly, video classification was conducted and accuracy was measured.  
 
