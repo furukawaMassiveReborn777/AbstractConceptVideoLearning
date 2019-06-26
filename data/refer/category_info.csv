@@ -1,0 +1,23 @@
+cg,main_category,narrow_sense,sub_category
+g,go,go,baseball pitcher
+c,come,come,baseball pitcher
+g,go,go,run training
+c,come,come,run training
+g,go,go,free kick keeper come go
+c,come,come,free kick keeper come go
+n,make,build,lego build
+n,break,disassemble,lego disassemble
+n,make,build,assemble a pc
+n,break,disassemble,disassemble a pc
+n,make,build,smartphone assemble
+n,break,disassemble,smartphone disassemble
+n,make,build,assemble bicycle
+n,break,disassemble,disassemble bicycle
+n,make,build,assemble engine
+n,break,disassemble,disassemble engine
+g,succeed,goal,free kick
+c,fail,miss,free kick
+g,succeed,goal,basketball game
+c,fail,miss,basketball game
+g,succeed,goal,handball game
+c,fail,miss,handball game

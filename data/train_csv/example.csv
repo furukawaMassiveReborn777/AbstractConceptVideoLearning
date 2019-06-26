@@ -1,0 +1,4 @@
+start_frame,end_frame,frame_dir,label_name,label,train
+6451,6571,../../frame30fps/assemble_a_pc/C70Srb7hTlw,build,0,False
+7021,7171,../../frame30fps/assemble_a_pc/C70Srb7hTlw,build,0,False
+7801,7891,../../frame30fps/assemble_a_pc/C70Srb7hTlw,build,0,False
