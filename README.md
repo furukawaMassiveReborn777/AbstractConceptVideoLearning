@@ -84,7 +84,7 @@ not using any pretrained weight to avoid learning unpredicted knowledge
 |---|---|---|  
 |come, go(6 classes) |70.7 |70.0 |  
 |build, disassemble(10 classes) |76.8 |38.0 |  
-|goal, miss(2 classes) |57.2 |36.4 |  
+|goal, miss(6 classes) |57.2 |36.4 |  
 
 ## visualization with t-sne for 3 main category concepts  
 #### come, go concept  
