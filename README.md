@@ -86,7 +86,7 @@ not using any pretrained weight to avoid learning unpredicted knowledge
 |build, disassemble(10 classes) |76.8 |38.0 |  
 |goal, miss(6 classes) |57.2 |36.4 |  
 
-## visualization with t-sne for 3 main category concepts  
+## visualization with t-sne for features of sub category concept trained model  
 #### come, go concept  
 <img src="data/figure_tsne/come_go_sub_part.png" width="80%">  
 
